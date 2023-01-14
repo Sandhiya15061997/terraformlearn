@@ -1,0 +1,7 @@
+vpc_cidr = "10.0.0.0/16"
+subnet_cidr = "10.0.10.0/24"
+avail_zone = "us-east-1a"
+env_prefix ="developmentSan"
+public_key_location = "/c/Users/Intel/.ssh/id_rsa.pub"
+instance_type = "t2.micro"
+my_ip = "192.168.1.6/32"
